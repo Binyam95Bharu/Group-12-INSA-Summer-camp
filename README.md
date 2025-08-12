@@ -1,74 +1,54 @@
-# 🛡️ Ransomware Simulation & Defense Toolkit (RSDT)
+# Ransomware Simulation & Defense Toolkit (RSDT)
 
-## 📌 Overview
-The **Ransomware Simulation & Defense Toolkit (RSDT)** is designed to simulate ransomware attacks in a safe, controlled environment and test various defense strategies. It helps security teams, researchers, and organizations understand attack vectors, evaluate protection methods, and improve incident response readiness.
-
----
+## 📌 Project Overview
+The **Ransomware Simulation & Defense Toolkit** is a cybersecurity project designed to:
+- Simulate ransomware attacks in a controlled environment.
+- Train cybersecurity teams on detection, analysis, and defense strategies.
+- Provide hands-on experience in ransomware prevention and response.
 
 ## 🚀 Features
-- **Safe Ransomware Simulation** – No real destructive payloads, only simulated encryption for testing.
-- **Defense Strategy Testing** – Evaluate antivirus, endpoint protection, and backup systems.
-- **Real-time Dashboard** – Monitor simulated attack progression.
-- **Incident Response Training** – Practice containment, eradication, and recovery steps.
+- **Ransomware Simulation** – Safe, sandboxed environment to test attack vectors.
+- **Defense Dashboard** – Real-time alerts, incident response tools, and attack logs.
+- **Forensics & Analysis Tools** – Examine encrypted files, trace attack origins, and study malicious payloads.
+- **Incident Reporting System** – Automatically generate security incident reports.
+- **Training Mode** – Guided simulations for educational purposes.
 
----
+## 🎯 Importance in Real Cybersecurity
+- **Practical Training**: Allows cybersecurity teams to practice responding to ransomware.
+- **Improved Response Time**: Prepares teams for real-life cyber incidents.
+- **Vulnerability Discovery**: Helps organizations identify and patch security weaknesses.
 
-## 🖥️ Technology Stack
-- **Frontend:** HTML, CSS, JavaScript (React.js or Vue.js)
-- **Backend:** Python (Flask/Django) or Node.js (Express)
-- **Database:** SQLite, MySQL, or PostgreSQL
-- **Security Libraries:** cryptography (Python), OpenSSL
-- **Visualization:** Chart.js / D3.js
-- **Environment:** Docker for containerized testing
+## 🛠 Technology Stack
+- **Backend**: Python (Flask/Django)
+- **Frontend**: HTML, CSS, JavaScript (React.js or Vue.js for dynamic UI)
+- **Database**: MySQL / PostgreSQL
+- **Security Tools**: YARA rules, OpenSSL, custom encryption modules
+- **Environment**: VirtualBox, Docker, or any sandbox environment
 
----
-
-## 💻 System Requirements
-- **OS:** Windows 10/11, Linux, or macOS
-- **Processor:** Quad-core or better
-- **RAM:** 8GB minimum (16GB recommended)
-- **Storage:** 20GB free space
-- **Software:** Python 3.9+, Node.js 16+, Docker, Git
-
----
+## 🖥 System Requirements
+- CPU: Quad-core 2.0GHz or higher  
+- RAM: 8GB minimum (16GB recommended)  
+- Storage: 20GB+ free space  
+- OS: Windows 10/11, Linux, or macOS  
+- Python 3.9+ installed  
+- Virtualization enabled (for sandbox simulations)  
 
 ## 📊 Dashboards
-1. **Attack Simulation Dashboard** – Shows simulated ransomware spread and file encryption progress.
-2. **Defense Metrics Dashboard** – Displays antivirus alerts, firewall logs, and system status.
-3. **Incident Response Dashboard** – Guides response steps and recovery status.
+1. **Attack Simulation Dashboard** – Launch and monitor ransomware simulations.
+2. **Defense Dashboard** – View active defenses, logs, and alerts.
+3. **Analysis Dashboard** – Investigate and analyze ransomware behaviors.
 
----
+## 📦 Project Output
+- Simulation reports
+- Attack logs
+- Encrypted/decrypted file samples
+- Training modules and documentation
 
-## 👥 Team Members
-+----------------------+-----------------------------+
-| Name | Email |
-+----------------------+-----------------------------+
-| Binyam Bharu | bharubinyam@gmail.com |
-| Adisu Alke | alkeadis09@gmail.com |
-| Amanuel Nebiyu | amanuelnebiyu00@gmail.com |
-| Niya Muhammad | niyakedir68@gmail.com |
-+----------------------+-----------------------------+
+## 👨‍💻 Team Members
+- **Binyam Bharu** – `bharubinyam@gmail.com`
+- **Adisu Alke** – `alkeadis09@gmail.com`
+- **Amanuel Nebiyu** – `Amanuelnebiyu00@gmail.com`
+- **Niya Muhammad** – `niyakedir68@gmail.com`
 
-yaml
-Copy
-Edit
-
----
-
-## 📄 License
-This project is for **educational and cybersecurity research purposes only**.  
-Use responsibly and in compliance with all applicable laws.
-
-If you want, I can now add a sample folder structure and basic code files so this README is ready to be used in GitHub with your project.
-Do you want me to prepare that?
-
-
-
-
-
-
-
-
-
-Ask ChatGPT
-
+## 📜 License
+This project is for **educational and research purposes only**. Do **NOT** use it for malicious activities.
